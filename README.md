@@ -1,6 +1,8 @@
 ## Hi there 👋
-    I'm Mark, a 21-year-old student in third year at Kasetsart University. 
-    I am studying software and knowledge engineering and is passionate about using technology to solve problems
+    I'm Mark, a 22-year-old student in fourth year at Kasetsart University. 
+    I'm currently studying software and knowledge engineering
+    I am doing a part-time backend dev role for Shipnity Company.
+    Also I am doing a part-time backend dev role for Shipnity Company and is passionate about using technology to solve problems
     and make a positive impact. 
     I am dedicated to my studies, determined to succeed, and confident in my education.
 
@@ -28,6 +30,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 # 💻 Tech Stack:
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
