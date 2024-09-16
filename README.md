@@ -1,10 +1,6 @@
 ## Hi there 👋
-    I'm Mark, a 22-year-old student in fourth year at Kasetsart University. 
-    I'm currently studying software and knowledge engineering
-    I am doing a part-time backend dev role for Shipnity Company.
-    Also I am doing a part-time backend dev role for Shipnity Company and 
-    is passionate about using technology to solve problems and make a positive impact. 
-    I am dedicated to my studies, determined to succeed, and confident in my education.
+    I'm Mix, a 22-year-old student in fourth year at Kasetsart University. 
+    I'm currently studying Electrical Engineering
 
 # :dizzy: About Me:
 👯 I'm looking to collaborate on web & mobile development
